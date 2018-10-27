@@ -10,7 +10,7 @@ public class AwesomeOrNot {
 		
 
 	// 2. Make a variable that will hold a random number and put a random number into this variable using "new Random().nextInt(4)"
-		int randomNumber = new Random().nextInt(4)
+		int randomNumber = new Random().nextInt(4);
 	// 3. Print out this variable
 		System.out.println("The random number is: " + randomNumber);
 	// 4. Get the user to enter something that they think is awesome
